@@ -1,4 +1,5 @@
 [![Inspector](https://user-images.githubusercontent.com/25294569/64163641-50cc9f80-ce4a-11e9-89b0-248c7d12142f.gif)](https://graphql-inspector.com/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdslzuha%2Fgraphql-inspector.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdslzuha%2Fgraphql-inspector?ref=badge_shield)
 
 [![npm version](https://badge.fury.io/js/%40graphql-inspector%2Fcli.svg)](https://npmjs.com/package/@graphql-inspector/cli)
 [![Docker Pulls](https://img.shields.io/docker/pulls/kamilkisiela/graphql-inspector)](https://hub.docker.com/r/kamilkisiela/graphql-inspector)
@@ -271,3 +272,6 @@ Some part of the library was ported to NodeJS from [Ruby's GraphQL Schema Compar
 ## License
 
 [MIT](https://github.com/kamilkisiela/graphql-inspector/blob/master/LICENSE) © Kamil Kisiela
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdslzuha%2Fgraphql-inspector.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdslzuha%2Fgraphql-inspector?ref=badge_large)
